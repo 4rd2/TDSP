@@ -23,5 +23,6 @@ Limitations & Future Research
 The dataset lacks information on vehicle safety features and vehicles not involved in crashes.
 Future studies should include safety feature data and explore how they influence accident rates.
 Understanding these patterns is crucial for improving urban road safety.
+
 Acknowledgments
 Special thanks to the Northeast Big Data Innovation Hub, National Student Data Corps, and the U.S. Department of Transportation Federal Highway Administration for their support.
