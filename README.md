@@ -7,7 +7,9 @@ This study analyzes how vehicle characteristics—such as manufacturing age, mak
 **Methodology**
 
 Dataset: NYPD Motor Vehicle Collisions
+
 Tools & Libraries: Python, Pandas, Matplotlib, Seaborn, Folium
+
 Analysis Techniques:
 Descriptive statistics
 Data visualizations (bar charts, scatter plots, maps)
