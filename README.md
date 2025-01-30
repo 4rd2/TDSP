@@ -30,4 +30,5 @@ Future studies should include safety feature data and explore how they influence
 Understanding these patterns is crucial for improving urban road safety.
 
 **Acknowledgments**
+
 Special thanks to the Northeast Big Data Innovation Hub, National Student Data Corps, and the U.S. Department of Transportation Federal Highway Administration for their support.
