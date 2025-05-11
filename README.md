@@ -2,6 +2,7 @@
 Transportation Data Science Project
 
 **Overview**
+
 This study analyzes how vehicle characteristics—such as manufacturing age, make, and model—impact collision rates in New York City. Using data from the New York Police Department’s Motor Vehicle Collisions dataset, the research explores patterns and correlations between different vehicle types and their involvement in crashes.
 
 **Methodology**
